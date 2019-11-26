@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 25 10:20:57 2019
 
-@author: Gunzshooter
-"""
-
-# -*- coding: utf-8 -*-
 """
 Created on Mon Sep 30 21:00:57 2019
 

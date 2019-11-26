@@ -29,8 +29,7 @@ def plotTafel(fileName):
     #plt.title("Substrate") 
     plt.xlabel("Current Density (A/cm$^2$)")
     plt.ylabel("Potential Applied (V)") 
-    
-    
+
     """
     Corrosion Potential
     """
